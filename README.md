@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Vipin, an Android Developer and Competetive Programmer.
 🔭 I’m currently working with Kotlin and Node.js<br>👯 I’m looking to collaborate and make some awesome projects.<br>🌱 I’m currently learning Machine Learning <br>💬 Ask me anything about Android Dev and related field.
 
 
